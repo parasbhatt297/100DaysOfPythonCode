@@ -1,1 +1,5 @@
 print("hello.. this is just a sample")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world\nhello world\nhello world")
